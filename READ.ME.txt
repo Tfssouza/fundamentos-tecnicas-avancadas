@@ -1,0 +1,37 @@
+# Fundamentos e Técnicas Avançadas — Menu Interativo em C
+
+Este projeto implementa um **menu interativo com repetição**, utilizando
+estruturas fundamentais e avançadas de programação em C.
+
+## 🎯 Objetivo
+Demonstrar:
+- Estruturas de repetição (while)
+- Estruturas de decisão (switch)
+- Uso de contadores e acumuladores
+- Funções matemáticas simples
+- Execução repetitiva controlada por menu
+
+## 📌 Funcionalidades
+1. Somar dois números  
+2. Tabuada de um número  
+3. Contagem de 1 até N  
+0. Sair do programa  
+
+## 🛠 Como compilar
+
+Linux / Mac:
+gcc menu_avancado.c -o menu
+
+Windows (MinGW):
+gcc menu_avancado.c -o menu.exe
+
+## ▶ Como executar
+
+Linux/Mac:
+./menu
+
+Windows:
+menu.exe
+
+## ✔ Nível entregue
+Fundamentos e Técnicas Avançadas — Exercício prático completo.
